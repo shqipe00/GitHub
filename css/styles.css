@@ -34,9 +34,9 @@ img {
 	height: auto; /* Højden skal tilpasse sig */
 }
 
-.div{
-	width: 300px;
-	border: 15px seagreen;
-	padding: 50px;
-	margin: 20px;
+.circel{
+	width: 100px;
+	height: 100px;
+	background: red;
+	border-radius: 50%
 }
